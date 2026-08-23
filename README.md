@@ -142,21 +142,7 @@ AI Engineering Student | Machine Learning • Deep Learning • Computer Vision 
 
 ---
 
-### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aymane-Oua&show_icons=true&locale=en" alt="Aymane GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aymane-Oua&show_icons=true&locale=en&layout=compact" alt="Aymane Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aymane-Oua" alt="Aymane GitHub Streak" />
-</p>
-
----
 
 <h3 align="center">
 🚀 Building intelligent solutions, learning continuously, and turning AI concepts into real-world applications.
