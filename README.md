@@ -1,21 +1,163 @@
+# GitHub Profile README
+
 <h1 align="center">Hi 👋, I'm Aymane Ouabdelmoumen</h1>
-<h3 align="center">AI Engineering Student | Passionate about Machine Learning, Deep Learning & Intelligent Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aymane-oua&label=Profile%20views&color=0e75b6&style=flat" alt="aymane-oua" /> </p>
+<h3 align="center">
+AI Engineering Student | Machine Learning • Deep Learning • Computer Vision • Intelligent Systems
+</h3>
 
-- 👨‍💻 All of my projects are available at [https://aymane-portofolio.vercel.app/](https://aymane-portofolio.vercel.app/)
-
-- 📫 How to reach me **aymaneouabdelmoumen@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aymane-Oua&label=Profile%20Views&color=0e75b6&style=flat" alt="Aymane-Oua" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aymane-oua&show_icons=true&locale=en&layout=compact" alt="aymane-oua" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aymane-oua&show_icons=true&locale=en" alt="aymane-oua" /></p>
+* 🎓 AI Engineering student passionate about Artificial Intelligence and intelligent systems
+* 🤖 Interested in Machine Learning, Deep Learning, Computer Vision and MLOps
+* 🧠 Currently improving my knowledge in neural networks, CNNs, RNNs and production-oriented AI
+* 🚀 I enjoy building real-world AI and web applications
+* 💻 I also work with modern web technologies to integrate AI models into complete applications
+* 📂 Explore my projects on my portfolio: [Aymane Portfolio](https://aymane-portofolio.vercel.app/)
+* 📫 Reach me at **[aymaneouabdelmoumen@gmail.com](mailto:aymaneouabdelmoumen@gmail.com)**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymane-oua&" alt="aymane-oua" /></p>
+---
+
+### 🧠 Areas of Interest
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* MLOps
+* Data Science
+* AI-powered Web Applications
+
+---
+
+### 🛠️ Languages and Tools
+
+#### Artificial Intelligence & Data Science
+
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-Learn"/>
+</a>
+
+<a href="https://opencv.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+</a>
+
+</p>
+
+#### Web Development
+
+<p align="left">
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/>
+</a>
+
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/>
+</a>
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind CSS"/>
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40" alt="Flask"/>
+</a>
+
+</p>
+
+#### Databases & Development Tools
+
+<p align="left">
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
+</a>
+
+<a href="https://www.figma.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</a>
+
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aymane-Oua&show_icons=true&locale=en" alt="Aymane GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aymane-Oua&show_icons=true&locale=en&layout=compact" alt="Aymane Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aymane-Oua" alt="Aymane GitHub Streak" />
+</p>
+
+---
+
+<h3 align="center">
+🚀 Building intelligent solutions, learning continuously, and turning AI concepts into real-world applications.
+</h3>
